@@ -1,0 +1,38 @@
+name: NSE filings to Telegram
+
+on:
+  schedule:
+    # Every 15 minutes (GitHub sometimes runs a few minutes late; that's normal)
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # adds a "Run workflow" button for testing
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-bot
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check NSE and post to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+        run: python bot.py
+
+      - name: Remember what was posted
+        run: |
+          git config user.name "filings-bot"
+          git config user.email "filings-bot@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || (git commit -m "update seen items" && git push)
