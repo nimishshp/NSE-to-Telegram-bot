@@ -36,7 +36,14 @@
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_3661_WebXMLFile_20261118_143426726.xml",
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_1606_WebXMLFile_20261118_144829633.xml",
 "order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_24937_WebXMLFile_20261118_145656664.xml",
-"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17639_WebXMLFile_20261118_150905902.xml"
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17639_WebXMLFile_20261118_150905902.xml",
+"order|https://nsearchives.nseindia.com/corporate/SPEL_18112026153158_Intimationbaggingoforder.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_20783_WebXMLFile_20261118_154013280.xml",
+"expansion|https://nsearchives.nseindia.com/corporate/JEENASIKHO_18112026154238_Intimation_Noida_signed.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_21638_WebXMLFile_20261118_160741453.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_21638_WebXMLFile_20261118_161817824.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_22667_WebXMLFile_20261118_162032740.xml",
+"deal|https://nsearchives.nseindia.com/corporate/AYMSYNTEX_18112026162041_Intimationonpronouncement181126.pdf"
 ],
 "kinds": [
 "board",
