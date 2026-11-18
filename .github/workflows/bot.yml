@@ -2,19 +2,18 @@ name: NSE filings to Telegram
 
 on:
   schedule:
-    # Every 15 minutes (GitHub sometimes runs a few minutes late; that's normal)
-    - cron: "*/15 * * * *"
-  workflow_dispatch: {}   # adds a "Run workflow" button for testing
+    - cron: "*/15 * * * *"   # every 15 minutes
+  workflow_dispatch:          # lets you press "Run workflow" by hand
 
 permissions:
-  contents: write
+  contents: write             # lets the bot save its posted.json memory file
 
 concurrency:
-  group: telegram-bot
+  group: nse-bot
   cancel-in-progress: false
 
 jobs:
-  post:
+  run:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -24,15 +23,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Check NSE and post to Telegram
+      - name: Check NSE and post new filings
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
-        run: python bot.py
-
-      - name: Remember what was posted
         run: |
-          git config user.name "filings-bot"
-          git config user.email "filings-bot@users.noreply.github.com"
-          git add seen.json
-          git diff --cached --quiet || (git commit -m "update seen items" && git push)
+          pip install --quiet openpyxl xlrd
+          python bot.py
+
+      - name: Save memory of posted filings
+        run: |
+          git config user.name "nse-bot"
+          git config user.email "nse-bot@users.noreply.github.com"
+          git add posted.json
+          git diff --cached --quiet || git commit -m "Update posted filings"
+          git push
