@@ -1,0 +1,37 @@
+{
+"posted": [
+"results|gammon india limited|03-Nov-2026",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_500_WebXMLFile_20261118_120945347.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_22944_WebXMLFile_20261118_120435386.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/MGEL_18112026120308_NCDOUTCOMEOFALLOTMENT18112026SIGNED.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_22944_WebXMLFile_20261118_120145327.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/AIMTRON_18112026115912_Allotment_of_Warrants_18-11-2026.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/CLEANMAX_18112026115633_Reg_30_Intimation_for_Acquisition_of_GSB_Energy.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/AIMTRON_18112026115535_Allotment_of_Shares_18-11-2026.pdf",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_3014_WebXMLFile_20261118_114909554.xml",
+"order|https://nsearchives.nseindia.com/corporate/KALPATPOWR_18112026114540_SEintimation_18112026.pdf",
+"management|https://nsearchives.nseindia.com/corporate/KTKBANK_18112026112025_MDAPPOINTMENTSEFiling18112026Signed.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2021_WebXMLFile_20261118_111530282.xml",
+"order|https://nsearchives.nseindia.com/corporate/HIRECT_18112026111316_SEP.pdf",
+"order|https://nsearchives.nseindia.com/corporate/GATEWAY_18112026110650_PR.pdf",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_187_WebXMLFile_20261118_103821209.xml",
+"order|https://nsearchives.nseindia.com/corporate/IGPL_18112026102819_IntimationtoSE_IGPL_18112026.pdf",
+"order|https://nsearchives.nseindia.com/corporate/ACME122002_18112026084007_Intimation18112026.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/EXIDEIND_18112026074337_SEsdSEDIVESTMENT.pdf",
+"corp_action|https://www.nseindia.com/companies-listing/corporate-filings-actions"
+],
+"kinds": [
+"board",
+"corp_action",
+"deal",
+"expansion",
+"fundraise",
+"management",
+"order",
+"outcome",
+"rating",
+"red_flag",
+"regulatory",
+"results"
+]
+}
