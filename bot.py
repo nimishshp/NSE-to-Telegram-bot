@@ -403,24 +403,55 @@ def fmt_cap(cap):
     return f"₹{n} Cr"
 
 
-def format_post(kind, item, cap):
+SUBJECT_FALLBACK = {
+    "results": "Financial Results",
+    "order": "Order Win",
+    "deal": "Acquisition / Merger",
+    "fundraise": "Fund Raising",
+    "outcome": "Outcome of Board Meeting",
+    "board": "Board Meeting Intimation",
+    "corp_action": "Corporate Action",
+    "management": "Change in Management",
+    "expansion": "Expansion",
+    "regulatory": "Regulatory Update",
+    "rating": "Credit Rating",
+    "red_flag": "Important Disclosure",
+}
+
+
+def split_subject(kind, company, desc):
+    """Returns (subject, announcement text)."""
+    d = desc.strip()
+    # 1) "Subject: ... | details"  or  "subject | details"
+    m = re.match(r"(?:subject\s*:\s*)?([^|]{3,200})\|\s*(?:details\s*:\s*)?(.*)", d, re.I | re.S)
+    if m:
+        return m.group(1).strip(" .:-"), m.group(2).strip()
+    # 2) "XYZ Limited has informed the Exchange about/regarding <subject>"
+    m = re.search(r"has informed the exchange (?:about|regarding|that|of)\s+(.*)", d, re.I | re.S)
+    if m:
+        return m.group(1).strip(" ."), ""   # the whole text IS the subject; don't repeat it
+    # 3) "Subject: <subject>"
+    m = re.match(r"subject\s*:\s*(.*)", d, re.I | re.S)
+    if m:
+        return m.group(1).strip(" ."), ""
+    return SUBJECT_FALLBACK[kind], d
+
+
+def format_post(kind, item, cap=None):
     e = html.escape
+    subject, body = split_subject(kind, item["company"], item["desc"])
+    if len(subject) > 200:
+        subject = subject[:200].rsplit(" ", 1)[0] + "…"
     lines = [f"<b>{LABELS[kind]}</b>", f"<b>{e(item['company'])}</b>"]
-    if cap:
-        lines[-1] += f"  ·  Mcap {fmt_cap(cap)}"
-    if item["desc"]:
-        desc = item["desc"]
-        if len(desc) > 600:
-            desc = desc[:600].rsplit(" ", 1)[0] + "…"
-        lines.append(e(desc))
-    meta = []
-    if item["date"]:
-        meta.append(f"🕒 {e(item['date'][:17])}")
     if item["link"]:
-        meta.append(f'🔗 <a href="{e(item["link"], quote=True)}">View filing on NSE</a>')
-    if meta:
-        lines.append(" · ".join(meta))
-    lines.append("<i>Source: NSE filings. For information only, not investment advice.</i>")
+        lines.append(f'<a href="{e(item["link"], quote=True)}">{e(subject)}</a>')
+    else:
+        lines.append(e(subject))
+    if body and body.lower() != subject.lower():
+        if len(body) > 700:
+            body = body[:700].rsplit(" ", 1)[0] + "…"
+        lines.append("")
+        lines.append(e(body))
     return "\n".join(lines)
 
 
