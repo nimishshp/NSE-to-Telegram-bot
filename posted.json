@@ -26,7 +26,11 @@
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_24797_WebXMLFile_20261118_124821608.xml",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_201_WebXMLFile_20261118_125054694.xml",
 "order|https://nsearchives.nseindia.com/corporate/SEAMECLTD_18112026130610_BSENSELOAPOSHPRPX18112026.pdf",
-"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_927_WebXMLFile_20261118_130758086.xml"
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_927_WebXMLFile_20261118_130758086.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_1149_WebXMLFile_20261118_133557275.xml",
+"deal|https://nsearchives.nseindia.com/corporate/INSECTICID_18112026140037_STX_Intimation_FP_Alpha_18112026.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_2603_WebXMLFile_20261118_141320553.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/ANN_AGREEMENT_18572_WebXMLFile_20261118_141455793.xml"
 ],
 "kinds": [
 "board",
