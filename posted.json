@@ -129,7 +129,14 @@
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_14060_WebXMLFile_20261119_145524306.xml",
 "order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_14012_WebXMLFile_20261119_145533234.xml",
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_1534_WebXMLFile_20261119_150417183.xml",
-"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_20486_WebXMLFile_20261119_150824807.xml"
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_20486_WebXMLFile_20261119_150824807.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2184_WebXMLFile_20261119_152518585.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_5294_WebXMLFile_20261119_153522958.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_2010_WebXMLFile_20261119_154129035.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_2010_WebXMLFile_20261119_154208198.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_20014_WebXMLFile_20261119_154850283.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_15440_WebXMLFile_20261119_160400173.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_19048_WebXMLFile_20261119_161338329.xml"
 ],
 "kinds": [
 "board",
