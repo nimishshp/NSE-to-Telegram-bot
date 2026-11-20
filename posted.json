@@ -279,7 +279,10 @@
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_2447_WebXMLFile_20261120_213428568.xml",
 "order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_19799_WebXMLFile_20261120_214849062.xml",
 "expansion|https://nsearchives.nseindia.com/corporate/ACMECS_20112026215210_IntimationTATA.pdf",
-"expansion|https://nsearchives.nseindia.com/corporate/ACMECS_20112026215804_IntimationNHPC.pdf"
+"expansion|https://nsearchives.nseindia.com/corporate/ACMECS_20112026215804_IntimationNHPC.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/SHALPAINTS_20112026224025_BSENSENov20.pdf",
+"order|https://nsearchives.nseindia.com/corporate/ekta_maheshwari_20112026230138_PenaltyIntimationRodtepNov2026.pdf",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_323_WebXMLFile_20261120_230747464.xml"
 ],
 "kinds": [
 "board",
