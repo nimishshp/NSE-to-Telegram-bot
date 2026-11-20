@@ -270,7 +270,11 @@
 "order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_3633_WebXMLFile_20261120_185736947.xml",
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2294_WebXMLFile_20261120_190307929.xml",
 "deal|https://nsearchives.nseindia.com/corporate/GEECEEVC12345_20112026191758_COV_IIFL_Finance_signed.pdf",
-"deal|https://nsearchives.nseindia.com/corporate/CARERATINGS_20112026191729_CARE.pdf"
+"deal|https://nsearchives.nseindia.com/corporate/CARERATINGS_20112026191729_CARE.pdf",
+"order|https://nsearchives.nseindia.com/corporate/JSWCL_20112026192216_SEIntimation20112026upload.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_2441_WebXMLFile_20261120_192921718.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_6248_WebXMLFile_20261120_193504886.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_6248_WebXMLFile_20261120_193615172.xml"
 ],
 "kinds": [
 "board",
