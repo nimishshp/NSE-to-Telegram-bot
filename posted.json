@@ -239,7 +239,14 @@
 "outcome|https://nsearchives.nseindia.com/corporate/xbrl/OUTCOME_13260_WebXMLFile_20261120_150747212.xml",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_24260_WebXMLFile_20261120_151118828.xml",
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2722_WebXMLFile_20261120_155409036.xml",
-"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2722_WebXMLFile_20261120_155539722.xml"
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2722_WebXMLFile_20261120_155539722.xml",
+"management|https://nsearchives.nseindia.com/corporate/ICIL_20112026160841_Stock_Exchange_Intimation-_Resignation_of_CFO.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_14348_WebXMLFile_20261120_161130592.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_1606_WebXMLFile_20261120_161347833.xml",
+"deal|https://nsearchives.nseindia.com/corporate/PAINTBERGE_20112026163255_AcquisitionofsharesofRocland.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/GRMOVER_20112026164502_outcometoupload.pdf",
+"order|https://nsearchives.nseindia.com/corporate/TEXRAIL_20112026164843_TexRailReceiptofOrderNCR20112026Signed.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2535_WebXMLFile_20261120_165339280.xml"
 ],
 "kinds": [
 "board",
