@@ -311,7 +311,10 @@
 "order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_13786_WebXMLFile_20261121_164400000.xml",
 "order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_13786_WebXMLFile_20261121_164753044.xml",
 "order|https://nsearchives.nseindia.com/corporate/PREMEXPLN_21112026165115_BSENSEReceiptofExportOrder21112026.pdf",
-"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_13935_WebXMLFile_20261121_172039470.xml"
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_13935_WebXMLFile_20261121_172039470.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_23375_WebXMLFile_20261121_173537296.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_4128_WebXMLFile_20261121_174217035.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_4128_WebXMLFile_20261121_174322505.xml"
 ],
 "kinds": [
 "board",
