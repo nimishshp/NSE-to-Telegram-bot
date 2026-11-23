@@ -332,7 +332,9 @@
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_5412_WebXMLFile_20261122_205300748.xml",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_234_WebXMLFile_20261122_211757870.xml",
 "deal|https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_23112026073427_BSENSE.pdf",
-"deal|https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_23112026073828_BSENSE.pdf"
+"deal|https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_23112026073828_BSENSE.pdf",
+"regulatory|https://nsearchives.nseindia.com/corporate/MARKSANS_23112026090618_SEIntimation.pdf",
+"order|https://nsearchives.nseindia.com/corporate/ONEPOINT_23112026091000_ONEPOINT.pdf"
 ],
 "kinds": [
 "board",
