@@ -457,7 +457,11 @@
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_2466_WebXMLFile_20261124_182450536.xml",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_17611_WebXMLFile_20261124_184134657.xml",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_11596_WebXMLFile_20261124_191755071.xml",
-"deal|https://nsearchives.nseindia.com/corporate/VISHNU_24112026191828_VCL_Incorporation_of_JV_Co_final_signed.pdf"
+"deal|https://nsearchives.nseindia.com/corporate/VISHNU_24112026191828_VCL_Incorporation_of_JV_Co_final_signed.pdf",
+"regulatory|https://nsearchives.nseindia.com/corporate/APLLTD_24112026193151_APL-SE-Intimation-USFDAApproval-24-11-2026_Signed.pdf",
+"red_flag|https://nsearchives.nseindia.com/corporate/DPSCLTD_24112026195853_Intimationof10thCoCMeetingunderReg30ofLODR24112026.pdf",
+"red_flag|https://nsearchives.nseindia.com/corporate/xbrl/CIRP_2743_WebXMLFile_20261124_200157695.xml",
+"expansion|https://nsearchives.nseindia.com/corporate/CENTUME_24112026200606_PixxelMOUIntimation.pdf"
 ],
 "kinds": [
 "board",
