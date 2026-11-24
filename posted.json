@@ -449,7 +449,15 @@
 "order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_187_WebXMLFile_20261124_174734964.xml",
 "deal|https://nsearchives.nseindia.com/corporate/PAVNA_24112026175119_DisclosurePES24112026sd.pdf",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_24284_WebXMLFile_20261124_175350356.xml",
-"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_18643_WebXMLFile_20261124_175408734.xml"
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_18643_WebXMLFile_20261124_175408734.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2531_WebXMLFile_20261124_180006781.xml",
+"deal|https://nsearchives.nseindia.com/corporate/LLOYDSME_24112026181359_20261124_Intimation.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/TORNTPOWER_24112026181847_Incorporation.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/FLUOROCHEM_24112026182411_GFCL_Intimation.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_2466_WebXMLFile_20261124_182450536.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_17611_WebXMLFile_20261124_184134657.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_11596_WebXMLFile_20261124_191755071.xml",
+"deal|https://nsearchives.nseindia.com/corporate/VISHNU_24112026191828_VCL_Incorporation_of_JV_Co_final_signed.pdf"
 ],
 "kinds": [
 "board",
