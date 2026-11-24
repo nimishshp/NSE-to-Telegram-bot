@@ -405,7 +405,13 @@
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_424_WebXMLFile_20261123_223720266.xml",
 "order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_4128_WebXMLFile_20261124_095030755.xml",
 "deal|https://nsearchives.nseindia.com/corporate/AXISCADES_24112026095411_IncorporationUK24112026.pdf",
-"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_1939_WebXMLFile_20261124_095630992.xml"
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_1939_WebXMLFile_20261124_095630992.xml",
+"board|https://nsearchives.nseindia.com/corporate/GUJARATTHEMIS_24112026104416_GTBLBMIntimation24112026.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_24436_WebXMLFile_20261124_110301085.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_24436_WebXMLFile_20261124_110303905.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17646_WebXMLFile_20261124_111448833.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17646_WebXMLFile_20261124_111507390.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17646_WebXMLFile_20261124_111514621.xml"
 ],
 "kinds": [
 "board",
