@@ -411,7 +411,13 @@
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_24436_WebXMLFile_20261124_110303905.xml",
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17646_WebXMLFile_20261124_111448833.xml",
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17646_WebXMLFile_20261124_111507390.xml",
-"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17646_WebXMLFile_20261124_111514621.xml"
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_17646_WebXMLFile_20261124_111514621.xml",
+"order|https://nsearchives.nseindia.com/corporate/SILVERTUC_24112026112132_Receipt_of_Order.pdf",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_15598_WebXMLFile_20261124_112925333.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_15598_WebXMLFile_20261124_113048587.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_1852_WebXMLFile_20261124_115506086.xml",
+"regulatory|https://nsearchives.nseindia.com/corporate/GLAND_24112026120546_USFDA_VSEZ_EIR_24112026.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/FINKURVE_24112026121059_Press_Release.pdf"
 ],
 "kinds": [
 "board",
