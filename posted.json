@@ -482,7 +482,11 @@
 "order|https://nsearchives.nseindia.com/corporate/PAM_25112026112131_PressRelease25112026.pdf",
 "order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_21098_WebXMLFile_20261125_113843633.xml",
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_15552_WebXMLFile_20261125_114230657.xml",
-"red_flag|https://nsearchives.nseindia.com/corporate/DPSCLTD_25112026120055_Pre_106thAGMNewspaperAdvertisement25112026.pdf"
+"red_flag|https://nsearchives.nseindia.com/corporate/DPSCLTD_25112026120055_Pre_106thAGMNewspaperAdvertisement25112026.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2184_WebXMLFile_20261125_124821693.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_1257_WebXMLFile_20261125_125850239.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_13160_WebXMLFile_20261125_130159452.xml",
+"expansion|https://nsearchives.nseindia.com/corporate/TVSMOTOR_25112026133731_TVSM_SE_Intimation_-_MOU_with_TN_GovtSD.pdf"
 ],
 "kinds": [
 "board",
