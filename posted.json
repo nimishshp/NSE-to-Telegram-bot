@@ -558,7 +558,11 @@
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_15479_WebXMLFile_20261125_201758200.xml",
 "deal|https://nsearchives.nseindia.com/corporate/AETL_25112026205325_Intimation__4_.pdf",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_14060_WebXMLFile_20261125_205853026.xml",
-"regulatory|https://nsearchives.nseindia.com/corporate/Lupin2_25112026213124_SELetterPressRelease.pdf"
+"regulatory|https://nsearchives.nseindia.com/corporate/Lupin2_25112026213124_SELetterPressRelease.pdf",
+"board|https://nsearchives.nseindia.com/corporate/POWERGRID1_25112026225535_BSENSE_PIdt251126_Final.pdf",
+"order|https://nsearchives.nseindia.com/corporate/KFINTECHNSE_25112026230044_Intimation.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_26469_WebXMLFile_20261125_231256521.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_26469_WebXMLFile_20261125_232034773.xml"
 ],
 "kinds": [
 "board",
