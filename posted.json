@@ -470,7 +470,16 @@
 "order|https://nsearchives.nseindia.com/corporate/xbrl/ANN_AGREEMENT_21550_WebXMLFile_20261124_224758671.xml",
 "regulatory|https://nsearchives.nseindia.com/corporate/CIPLA_25112026084353_Press_Release_Product_Launch_SE_Flovent_Signed.pdf",
 "order|https://nsearchives.nseindia.com/corporate/HIGHWAY123_25112026091043_HIL_Reg30_WO_251126.pdf",
-"order|https://nsearchives.nseindia.com/corporate/HIGHWAY123_25112026091842_HIL_WO_PR_251126.pdf"
+"order|https://nsearchives.nseindia.com/corporate/HIGHWAY123_25112026091842_HIL_WO_PR_251126.pdf",
+"order|https://nsearchives.nseindia.com/corporate/HIGHWAY123_25112026102627_HIL_Reg30_Rev_WO_251126.pdf",
+"management|https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_25112026103742_Resignation_of_CFO.pdf",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/REG30_PARA_B_24588_WebXMLFile_20261125_104131641.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_2990_WebXMLFile_20261125_104200296.xml",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_21270_WebXMLFile_20261125_111838226.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_16760_WebXMLFile_20261125_111854048.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_16760_WebXMLFile_20261125_111941050.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_21270_WebXMLFile_20261125_112040890.xml",
+"order|https://nsearchives.nseindia.com/corporate/PAM_25112026112131_PressRelease25112026.pdf"
 ],
 "kinds": [
 "board",
