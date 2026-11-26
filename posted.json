@@ -571,7 +571,13 @@
 "fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_5462_WebXMLFile_20261126_095901657.xml",
 "order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_19896_WebXMLFile_20261126_101838066.xml",
 "deal|https://nsearchives.nseindia.com/corporate/GKENERGY_26112026102348_WOS_intimation_sd.pdf",
-"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_25014_WebXMLFile_20261126_103409170.xml"
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_25014_WebXMLFile_20261126_103409170.xml",
+"order|https://nsearchives.nseindia.com/corporate/Verandaipo_26112026104943_Reg30GST.pdf",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_17575_WebXMLFile_20261126_113334805.xml",
+"management|https://nsearchives.nseindia.com/corporate/GRWRHITECH_26112026113211_GHFL_Changes_in_Management_Sign.pdf",
+"red_flag|https://nsearchives.nseindia.com/corporate/HITECHGEAR_26112026113431_Final_Intimation_SD.pdf",
+"management|https://nsearchives.nseindia.com/corporate/GRWRHITECH_26112026113708_GHFL_Changes_in_Management_Sign.pdf",
+"order|https://nsearchives.nseindia.com/corporate/DOLATALGO_26112026114329_26-11-26-disc-signed.pdf"
 ],
 "kinds": [
 "board",
