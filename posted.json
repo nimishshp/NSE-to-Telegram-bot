@@ -665,7 +665,14 @@
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_19804_WebXMLFile_20261126_193254642.xml",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_19804_WebXMLFile_20261126_193302128.xml",
 "deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_19804_WebXMLFile_20261126_193309530.xml",
-"order|https://nsearchives.nseindia.com/corporate/ASPHL_26112026193651_Intimation.pdf"
+"order|https://nsearchives.nseindia.com/corporate/ASPHL_26112026193651_Intimation.pdf",
+"order|https://nsearchives.nseindia.com/corporate/ASPHL_26112026193935_Intimation.pdf",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_18777_WebXMLFile_20261126_194249081.xml",
+"fundraise|https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_2184_WebXMLFile_20261126_200255863.xml",
+"deal|https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_26112026202844_NSEBSELETTERFINALDRAFTACGL.pdf",
+"deal|https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_26984_WebXMLFile_20261126_204719938.xml",
+"order|https://nsearchives.nseindia.com/corporate/xbrl/AIATOP_2785_WebXMLFile_20261126_212711468.xml",
+"order|https://nsearchives.nseindia.com/corporate/WABCOINDIA_26112026212930_sdSEIntimation_order-edit.pdf"
 ],
 "kinds": [
 "board",
